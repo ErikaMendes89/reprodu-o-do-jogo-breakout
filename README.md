@@ -1,4 +1,4 @@
-# reproducao-do-jogo-breakout
+# reproducao-do-jogo-breakout  🪺
 Breakout Game
 Este é um jogo simples de breakout feito em Python com Pygame. Para fins de estudo e prática, com a ideia de repoduzir o jogo que foi realizada nas aulas da Byjus, com o studio.code ([https://studio.code.org/projects/gamelab/YkrjhkFL8_aR6vdP_ntw9ny9AUnqZd3KFMPhJBkfmKs/edit](https://studio.code.org/projects/gamelab/YkrjhkFL8_aR6vdP_ntw9ny9AUnqZd3KFMPhJBkfmKs)).
 
